@@ -1,0 +1,1 @@
+Raw data and scripts associated with "Hidden structure in disordered proteins is adaptive to intracellular changes" by Moses et al.
