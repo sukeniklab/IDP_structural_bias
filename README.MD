@@ -4,6 +4,6 @@
 
 Version 2 of this manuscript
 
-Note that as of 11/25/21 this repo is being constantly updated. If information you are looking for is not on here, please contact ssukenik@ucmerced.edu.
+Note that as of 5/11/22 this repo is being constantly updated. If information you are looking for is not on here, please contact ssukenik@ucmerced.edu.
 
-Each directory for Figs. 1, 2 and 3 contains one python program along with the files the program requires. To generate a figure, copy the entire directory to your computer and run the python program.
+Each directory for Figs. 2, 3 and 4 contains one python program along with the files the program requires. To generate a figure, copy the entire directory to your computer and run the python program.
