@@ -1,9 +1,13 @@
 ######################################################################################################################
 #
+# moses_et_al_idp_structural_bias_figs_3h_4e.py
+# 
+# Creates figure 3H or 4E (depending on which IDR_SET is chosen) of Moses et al, 
+# "Structural biases in disordered proteins are prevalent in the cell." 
 #
-#
+# See preprint at: https://www.biorxiv.org/content/10.1101/2021.11.24.469609v2
+# 
 ######################################################################################################################
-
 
 import pandas as pd
 import numpy as np
