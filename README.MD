@@ -6,4 +6,8 @@ Version 2 of this manuscript
 
 Note that as of 5/11/22 this repo is being constantly updated. If information you are looking for is not on here, please contact ssukenik@ucmerced.edu.
 
-Each directory for Figs. 2, 3 and 4 contains one python program along with the files the program requires. To generate a figure, copy the entire directory to your computer and run the python program.
+To generate a figure, clone the repository and run the script from within the directory on your computer.
+
+Directory structure as follows:
+
+./cell_figs - All live-cell data - Figs. 2G, 2H, 3G, 3I, 4D, 4F, S7, and S8
