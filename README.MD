@@ -4,7 +4,8 @@
 
 Version 2 of this manuscript, available here: https://www.biorxiv.org/content/10.1101/2021.11.24.469609v2
 
-To generate a figure, clone the repository and run the script from within the directory on your computer.
+To generate a figure, clone the repository and run the script from within the directory on your computer.  
+Scripts to generate data were tested on python 3.9. Libraries used in the scripts are pandas, numpy, matplotlib, and statannot.
 
 Directory structure as follows:
 
@@ -17,5 +18,4 @@ Directory structure as follows:
 Older Github repositories corresponding to previous versions of the manuscript  
 ./biorxiv_v1 - all data for version 1 of the manuscript   
 ./biorxiv_v2 - Older repository for version 2 of manuscript. Any new data and figures added to the first version of this manuscript.  
-./biorxiv_v2/cell_figs - Figs. 2G, 2H, 3G, 3I, 4D, 4E, 4G, 5C, 5D, S7, and S8 and the script used these figures that were added to make version 2 of manuscript.  
-./biorxiv_v2/fig_3h_4e - data used to generate Figs. 3H and 4E.
+
