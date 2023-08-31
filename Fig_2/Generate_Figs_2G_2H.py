@@ -35,6 +35,8 @@ TableS3 = TableS3[TableS3['D/A_before']<6]
 TableS3 = TableS3[TableS3['Area']<650]
 TableS3 = TableS3[TableS3['ch1']>3000]
 TableS3 = TableS3[TableS3['ch3']<10000]
+##selecting original constructs (not the ones with the flipped FP pair)
+TableS3=TableS3[TableS3['FPorder']=='O']
 #%% defining variables 
 prots = ['GS0','GS16','GS32','GS48','GS64','Ash1', 'E1A', 'FUS','p53','PUMA WT', 'PUMA S1', 'PUMA S2', 'PUMA S3']
 GSs = ['GS0','GS16','GS32','GS48','GS64']
